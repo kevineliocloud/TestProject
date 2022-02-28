@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestApplication</string>
+    <string name="str_title_main">Android Text Application</string>
 </resources>
